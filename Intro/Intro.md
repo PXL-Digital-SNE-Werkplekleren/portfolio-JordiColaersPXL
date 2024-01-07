@@ -7,8 +7,8 @@ bij een cv maar ook opdrachten die ik gemaakt heb en werk ervaring.
 
 
 # persoonlijke info
-Colaers jordi
-jordi1.colaers@gmail.com
-+32496294148
-diploma middelbaar cvo netwerkbeheer 
-hobby's: gamen, boeken lezen, schaken
+1. Colaers jordi
+2. jordi1.colaers@gmail.com
+3. +32496294148
+4. diploma middelbaar cvo netwerkbeheer 
+5. hobby's: gamen, boeken lezen, schaken
