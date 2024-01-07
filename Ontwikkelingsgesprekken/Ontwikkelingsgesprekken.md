@@ -10,7 +10,7 @@ mijn beeld van dit beroep is dat het een zeer divers beroep is
 in de opleiding krijgen we systemen zoals linux en windows 
 en ook netwerken dus je kan al meerdere richtingen uitgaan als je bent afgestudeerd 
 zover in de opleiding ben ik het meest geintereseerd in netwerken maar door gastgesprekken 
-ben ik ook zeer benieuwd naar het security aspect in netwerken dat we in het tweede jaar gaan krijgen.
+ben ik ook zeer benieuwd naar het security aspect in netwerken dat we in het tweede jaar gaan krijgen..
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
 
