@@ -12,3 +12,4 @@ bij een cv maar ook opdrachten die ik gemaakt heb en werk ervaring.
 3. +32496294148
 4. diploma middelbaar cvo netwerkbeheer 
 5. hobby's: gamen, boeken lezen, schaken
+[colaers_jordi_cv.docx](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JordiColaersPXL/files/13920270/colaers_jordi_cv.docx)
