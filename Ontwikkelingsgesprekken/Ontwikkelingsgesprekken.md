@@ -19,7 +19,7 @@ competensies systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in deze tabel
 
 
-![Screenshot_141](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JordiColaersPXL/assets/148558939/12a2fe3e-c82e-45ce-ae7b-18586b5ea66d)
+Screenshot_141.jpg
 
 
 Mijn evolutie tijdens WPL1
