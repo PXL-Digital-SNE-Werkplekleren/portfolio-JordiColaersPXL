@@ -18,26 +18,9 @@ ben ik ook zeer benieuwd naar het security aspect in netwerken dat we in het twe
 competensies systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in deze tabel
 
-Graduaat in het Systeem- en Netwerkbeheer
-⬇️ Opleidingsspecifieke leerresultaten
-ROL	INSTALLATEUR
-OLR 1	De student installeert, configureert en test professionele netwerkinfrastructuur volgens de noden van de organisatie op basis van een bestaand plan.
-OLR 2	De student installeert, configureert en test clients, servers en randapparatuur in een professionele virtuele of fysieke omgeving.
-OLR 3	De student installeert en configureert besturingssystemen, applicaties en netwerkservices.
-OLR 4	De student herkent veiligheidsrisico’s, informeert en sensibiliseert de eindgebruiker en past de relevante procedures en best practices inzake systeem- en netwerkbeveiliging toe.
-ROL	BEHEERDER-TROUBLESHOOTER
-OLR 5	De student onderhoudt besturingssystemen, applicaties en netwerkservices.
-OLR 6	De student automatiseert repetitieve taken in een systeem- en netwerkinfrastructuur.
-OLR 7	De student past principes van datacommunicatie en netwerken toe om een systeem- en netwerkinfrastructuur te monitoren, problemen op te lossen.
-OLR 8	De student bepaalt proactief wat nodig is om de continuïteit van de systeem- en netwerkinfrastructuur van de organisatie te garanderen en kaart deze noden aan bij de relevante betrokkenen.
-ROL	COMMUNICATOR-ONDERSTEUNER
-OLR 9	De student ondersteunt de gebruikers bij het optimaal en veilig gebruik van de besturingssystemen, applicaties en netwerkservices.
-OLR 10	De student verzamelt informatie, documenteert, communiceert en rapporteert efficiënt over het geleverde werk, aangepast aan het doelpubliek en gebruikt hiervoor het gepaste Engelstalige vakjargon.
-OLR 11	De student heeft inzicht in de werking van een IT organisatie, werkt constructief en actief samen in een multidisciplinair team en participeert actief tijdens overlegmomenten.
-ROL	LEVENSLANG LERENDE IT-PROFESSIONAL
-OLR 12	De student handelt deontologisch en gaat op een professionele manier om met data en privacy. De gegradueerde past de relevante wetgeving toe.
-OLR 13	De student onderhoudt zijn deskundigheidsniveau door relevante IT-ontwikkelingen op te volgen.
-OLR 14	De student is zelfkritisch, ontwikkelt de nodige zelfkennis en gebruikt deze om zijn persoonlijke en professionele groei te bevorderen.
+
+![Screenshot_141](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-JordiColaersPXL/assets/148558939/12a2fe3e-c82e-45ce-ae7b-18586b5ea66d)
+
 
 Mijn evolutie tijdens WPL1
 
