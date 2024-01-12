@@ -19,7 +19,7 @@ competensies systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in deze tabel
 
 
-Screenshot_141.jpg
+images/Screenshot_141.jpg
 
 
 Mijn evolutie tijdens WPL1
